@@ -1,0 +1,26 @@
+Hello Gargantua
+
+http://mirrors.163.com/ 网易开源镜像站，CentOS，Ubuntu，maven，nginx等
+https://smallpdf.com/cn 处理PDF
+https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/login/auth.code2Session.html  微信小程序开发API
+https://developer.baidu.com/     百度开放平台
+https://greasyfork.org/zh-CN 浏览器脚本库
+https://tools.miku.ac/  现成工具入口
+https://www.toolnb.com/
+http://dnmjun.ys168.com/  柠檬的小基地
+http://dubbo.apache.org/zh-cn/docs/dev/design.html  dubbo官方文档
+https://hutool.cn/docs/#/  Hutool是一个小而全的Java工具类库
+http://www.easyui-extlib.com/ EasyUI拓展库
+https://element.eleme.cn/2.0/#/zh-CN/component/button ElementUI
+https://www.w3school.com.cn/tiy/t.asp?f=html_basic W3C在线测试
+https://mvnrepository.com/ maven
+https://docs.camunda.org/manual/7.7/user-guide/process-engine/delegation-code/
+https://blog.csdn.net/qq_28767795/article/details/81239925  Camunda 工作流引擎 demo
+https://www.jianshu.com/p/cfb6bd329ba1 camunda 错误处理、补偿机制和分布式事务支持
+https://blog.csdn.net/shenyunsese/article/details/56847808 camunda集群部署方案
+https://www.dogedoge.com/results?q=camuda&lang=auto camuda多吉搜索结果
+https://site.ip138.com/ IP138 - iP或域名查询，号码归属地查询等工具
+https://www.beyondcompare.cc/anzhuang/zhucema-huoqu.html  Beyond Compare 注册
+https://www.processon.com/ 在线作图
+https://docs.camunda.org/manual/7.6/reference/bpmn20/events/timer-events/#timer-intermediate-catching-event
+https://www.cordcloud.biz/user 机场，使用9965QQ邮箱登录
